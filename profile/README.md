@@ -43,15 +43,6 @@ Somos una consultora boutique especializada en soluciones de inteligencia artifi
 
 ---
 
-## 📈 Resultados que hemos generado
-
-- ⏱️ **85%** de reducción en tiempo de procesamiento (caso minería)
-- 💰 **42%** de ahorro en costos de infraestructura (caso banca)
-- 📱 **35%** de ventas online en 18 meses (caso retail)
-- ✅ **99.95%** de disponibilidad post-migración cloud
-
----
-
 ## 🤝 ¿Trabajamos juntos?
 
 Ofrecemos una sesión de **Discovery sin costo** para entender tu desafío y explorar cómo podemos ayudarte.
