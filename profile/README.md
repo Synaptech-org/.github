@@ -1,4 +1,4 @@
-# 👋 Bienvenido a Synaptech
+# 👋 Bienvenido a Strukgroup
 
 > **Consultoría de IA y Transformación Digital** — Santiago, Chile 🇨🇱
 
