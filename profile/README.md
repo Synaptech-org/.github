@@ -47,9 +47,9 @@ Somos una consultora boutique especializada en soluciones de inteligencia artifi
 
 Ofrecemos una sesión de **Discovery sin costo** para entender tu desafío y explorar cómo podemos ayudarte.
 
-[![Email](https://img.shields.io/badge/contacto@synaptech.cl-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:contacto@synaptech.cl)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/company/synaptech-chile)
-[![Web](https://img.shields.io/badge/www.synaptech.cl-000000?style=flat&logo=google-chrome&logoColor=white)](https://www.synaptech.cl)
+[![Email](https://img.shields.io/badge/contacto@synaptech.cl-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:contacto@strukgroup.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/company/strukgroup)
+[![Web](https://img.shields.io/badge/www.synaptech.cl-000000?style=flat&logo=google-chrome&logoColor=white)](https://www.strukgroup.com)
 
 ---
 
